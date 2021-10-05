@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+### to-do list
+<img src = "![captura](https://user-images.githubusercontent.com/66797088/135987402-b61eef94-8709-4165-b70b-cd16c50e7382.png)"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
