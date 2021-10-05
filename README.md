@@ -1,5 +1,6 @@
 ### to-do list
-<img src = " ![captura](https://user-images.githubusercontent.com/66797088/135987402-b61eef94-8709-4165-b70b-cd16c50e7382.pn)"/>
+<img src = " ![captura](https://user-images.githubusercontent.com/66797088/135987810-621f5a62-cc96-4da0-82a9-e61c63a5edc4.png)
+"/>
 
 # Getting Started with Create React App
 
