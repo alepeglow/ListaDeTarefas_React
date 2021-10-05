@@ -49,5 +49,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 =======
-# ListaDeTarefas_React
->>>>>>> d1a6d657c98d9df544458a9f92314f247813546d
