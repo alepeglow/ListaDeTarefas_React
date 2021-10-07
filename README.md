@@ -1,4 +1,5 @@
 ### to-do list
+This project was made in React during a challenge called "5 Projetos em 5 Dias" by [B7Web](https://b7web.com.br).
 ![captura](https://user-images.githubusercontent.com/66797088/135988003-e0096dd3-cab1-450f-a678-b5fddf58e390.png)
 
 
